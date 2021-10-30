@@ -14,5 +14,8 @@ Here are the main steps:
 4. Visualizing Cryptocurrencies Results
 
 ## Results
+![CryptocurrenciesPCAClusters](images/PCA-3D.png)
 
+
+![TotalminedVsSupply](images/bokeh_plot.png)
 
